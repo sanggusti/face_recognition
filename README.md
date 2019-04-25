@@ -1,2 +1,2 @@
-# face_recognition
-Flask face recognition apps
+# issp.id
+Flask for i-ssp.id project
